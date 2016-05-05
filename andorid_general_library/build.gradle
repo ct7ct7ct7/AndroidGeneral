@@ -1,5 +1,10 @@
 apply plugin: 'com.android.library'
 
+//JitPack
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.ct7ct7ct7'
+//JitPack
+
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.2"
