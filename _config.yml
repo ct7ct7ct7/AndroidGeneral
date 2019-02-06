@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+plugins:
+  - jekyll-seo-tag
+
+description: Anson Test
